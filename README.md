@@ -18,6 +18,6 @@ This project is developed to enhance home safety and promote energy awareness by
 https://drive.google.com/drive/folders/1iyDJR35urvKA4CNSkbQvqC479mxjkUUU
 
 ## Team members :
-[Nada Hesham Mohammed](https://github.com/Nada-Hesham249)
+- [Nada Hesham Mohammed](https://github.com/Nada-Hesham249) -
 
-[ Shahd Ayman Rezk](https://github.com/Shahd-Ayman5)
+- [ Shahd Ayman Rezk](https://github.com/Shahd-Ayman5) -
