@@ -17,4 +17,4 @@ This project is developed to enhance home safety and promote energy awareness by
 ## Team members :
 [Nada Hesham Mohammed](https://github.com/Nada-Hesham249)
 
-[ Shahd Ayman](https://github.com/Shahd-Ayman5)
+[ Shahd Ayman Rezk](https://github.com/Shahd-Ayman5)
