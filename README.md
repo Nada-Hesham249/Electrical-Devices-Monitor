@@ -15,7 +15,8 @@ This project is developed to enhance home safety and promote energy awareness by
 ![circuit diagram](https://github.com/user-attachments/assets/2c00b3b1-40a7-4fd8-a68a-3de216faa270)
 
 ## Project details :
- 
+https://drive.google.com/drive/folders/1iyDJR35urvKA4CNSkbQvqC479mxjkUUU
+
 ## Team members :
 [Nada Hesham Mohammed](https://github.com/Nada-Hesham249)
 
