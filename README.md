@@ -2,11 +2,11 @@
 This project is developed to enhance home safety and promote energy awareness by monitoring the runtime of household electrical devices.
 
 ## Key Features:
-- **Real-time device usage tracking
-Continuously monitors how long each electrical device has been operating.
+- **Real-time device usage tracking**  
+  Continuously monitors how long each electrical device is running in real-time.
 
-- **Overuse Detection & Alerts
-If a device runs beyond its safe operating time (e.g., an iron or space heater), the system automatically triggers an alarm to prevent potential hazards like overheating or fire.
+- **Overuse detection with alarms**  
+  If a device exceeds its safe operating time (e.g., an iron), the system triggers an alarm to prevent overheating or fire.
 
-- **Usage Logging & Insights
-Logs the usage duration of each device, allowing users to review their electricity consumption and better understand their energy usage patterns.
+- **Energy consumption logging**  
+  Records device usage durations to help users analyze and reduce electricity waste.
