@@ -10,3 +10,7 @@ This project is developed to enhance home safety and promote energy awareness by
 
 - **Energy consumption logging**  
   Records device usage durations to help users analyze and reduce electricity waste.
+  
+## Circuit diagram :
+![circuit diagram](https://github.com/user-attachments/assets/2c00b3b1-40a7-4fd8-a68a-3de216faa270)
+
